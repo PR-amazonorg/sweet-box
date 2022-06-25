@@ -1,0 +1,6 @@
+
+
+#comments
+/test.txt
+build/
+!main.js
